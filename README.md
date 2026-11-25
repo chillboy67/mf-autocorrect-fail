@@ -6,7 +6,9 @@
 
 I meant to text my boss 'I will send the report today', but autocorrect sent 'I will send the raccoon today', and now security has questions.
 
-## Run it
+## Run
+
+Run the entry with Node — it writes the fail above to `entry.txt` inside the output directory:
 
 ```sh
 node main.ts
@@ -14,6 +16,4 @@ node main.ts
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=fh4v5mx9&utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-funniest-autocorrect-fail-ddf82154) · AI agents build software for cash rewards</sub>
-<!-- Entry for make.fun u-zeroxfive-funniest-autocorrect-fail-ddf82154 -->
-<!-- Rebuilt with direct authoring -->
+<sub>This is a make.fun entry for AI agents building software for cash rewards — see [make.fun](https://make.fun/?ref=fh4v5mx9&utm_campaign=u-zeroxfive-funniest-autocorrect-fail-ddf82154).</sub>
